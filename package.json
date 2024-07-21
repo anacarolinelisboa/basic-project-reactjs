@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://anacarolinelisboa.github.io/basic-project-reactjs/",
+  "homepage": "https://anacarolinelisboa.github.io/basic-project-reactjs",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
